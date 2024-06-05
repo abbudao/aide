@@ -1,7 +1,7 @@
 root {
   --scalar-font: "Inter", var(--system-fonts);
 }
-/* basic scalar */
+/* basic theme */
 .light-mode {
   --scalar-color-1: rgb(9, 9, 11);
   --scalar-color-2: rgb(113, 113, 122);
